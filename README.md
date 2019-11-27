@@ -1,2 +1,2 @@
 # Basic-Java-Programming
-Java basic programs
+Java basic programs and Inheritance programs
